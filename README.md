@@ -1,7 +1,8 @@
 # About me
 I am currently in high school, attending GSMST (#12 highschool in nation btw)
 I enjoy coding and programming in languages such as Python and Java
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarrettRector)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarrettRector&show_icons=true&theme=dark)
 
 # Current Projects
 
