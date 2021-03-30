@@ -1,8 +1,22 @@
-# About me
-I am currently in high school, attending GSMST (#12 highschool in nation btw)
-I enjoy coding and programming in languages such as Python and Java. Python was the first langauge I learned, but I want to explore more languages which are more useful for certain things such as java.
+## I'm currently attended the #12 highschool in the US, GSMST, and want to learn more about the world of computer programming
+* Attending GSMST, and am the class of 2025
+* I use Languages such as Python or Java
+* I like the Jetbrains suite of development tools the best
+* I am looking to understand machine learning further
 
-# Current Statistics
+## Connect with me:
+[<img align="left" alt="Stackoverflow" height="22px" src="768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
+[<img align="left" alt="Sabesan | Dev" height="22px" src="./SocialLogo/Dev.png" />][dev]
+[<img align="left" alt="Sabesan | Quora" height="22px" src="./SocialLogo/Quora.png" />][quora]
+[<img align="left" alt="Sabesan | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
+[<img align="left" alt="Sabesan | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
+[<img align="left" alt="Sabesan | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
+[<img align="left" alt="Sabesan | Skype" height="22px" src="./SocialLogo/Skype.png" />][skype]
+[<img align="left" alt="Sabesan | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
+[<img align="left" alt="Sabesan | Messenger" height="22px" src="./SocialLogo/Messenger.png" />][messenger]
+[<img align="left" alt="Sabesan | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
+[<img align="left" alt="Sabesan | Flipboard" height="22px" src="./SocialLogo/Flipboard.png" />][flipboard]
+## Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GarrettRector&show_icons=true&theme=dark" />
 </a>
@@ -12,5 +26,5 @@ I enjoy coding and programming in languages such as Python and Java. Python was 
 
 ##### (them stats look nice though)
 
-# Current Projects
+## Current Projects and the order of their prioritization
 I am currently working on [Jchat](https://github.com/GarrettRector/JChat), and plan to continue development on [RLAC](https://github.com/GarrettRector/RLAC), but would like to start a C based project whether that is C, C++, or C#. One of my goals in that project would to create a 3d render based solely off the command line.
