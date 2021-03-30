@@ -1,11 +1,11 @@
 ## I'm currently attended the #12 highschool in the US, GSMST, and want to learn more about the world of computer programming
 * Attending GSMST, and am the class of 2025
 * I use Languages such as Python or Java
-* I like the Jetbrains suite of development tools the best
+* I enjoy using the Jetbrains suite of development tools the most
 * I am looking to understand machine learning further
 
 ## Connect with me:
-[<img align="left" alt="Stackoverflow" height="22px" src="768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
+[<img align="left" alt="Stackoverflow" height="22px" src="./logo/768px-Stack_Overflow_icon.svg.png"/>][stackoverflow]
 [<img align="left" alt="Sabesan | Dev" height="22px" src="./SocialLogo/Dev.png" />][dev]
 [<img align="left" alt="Sabesan | Quora" height="22px" src="./SocialLogo/Quora.png" />][quora]
 [<img align="left" alt="Sabesan | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
@@ -16,6 +16,7 @@
 [<img align="left" alt="Sabesan | Messenger" height="22px" src="./SocialLogo/Messenger.png" />][messenger]
 [<img align="left" alt="Sabesan | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
 [<img align="left" alt="Sabesan | Flipboard" height="22px" src="./SocialLogo/Flipboard.png" />][flipboard]
+
 ## Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GarrettRector&show_icons=true&theme=dark" />
