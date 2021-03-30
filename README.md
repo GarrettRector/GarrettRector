@@ -5,17 +5,11 @@
 * I am looking to understand machine learning further
 
 ## Connect with me:
-[<img align="left" alt="Stackoverflow" height="22px" src="/logo/StackOverflow.png" />](https://stackoverflow.com/users/15369613/garrett-rector)
-[<img align="left" alt="Sabesan | Dev" height="22px" src="./SocialLogo/Dev.png" />][dev]
-[<img align="left" alt="Sabesan | Quora" height="22px" src="./SocialLogo/Quora.png" />][quora]
-[<img align="left" alt="Sabesan | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
-[<img align="left" alt="Sabesan | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
-[<img align="left" alt="Sabesan | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
-[<img align="left" alt="Sabesan | Skype" height="22px" src="./SocialLogo/Skype.png" />][skype]
-[<img align="left" alt="Sabesan | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
-[<img align="left" alt="Sabesan | Messenger" height="22px" src="./SocialLogo/Messenger.png" />][messenger]
-[<img align="left" alt="Sabesan | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
-[<img align="left" alt="Sabesan | Flipboard" height="22px" src="./SocialLogo/Flipboard.png" />][flipboard]
+[<img align="left" alt="StackOverflow" height="22px" src="/logo/StackOverflow.png" />](https://stackoverflow.com/users/15369613/garrett-rector)
+[<img align="left" alt="Twitter" height="22px" src="./logo/Twitter.png" />]()
+[<img align="left" alt="Instagram" height="22px" src="./logo/Instagram.png" />]()
+[<img align="left" alt="Discord" height="22px" src="./logo/Discord.png" />]()
+
 
 ## Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
