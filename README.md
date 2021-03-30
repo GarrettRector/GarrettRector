@@ -9,7 +9,7 @@
 [<img align="left" alt="StackOverflow" height="30px" src="/logo/StackOverflow.png" />](https://stackoverflow.com/users/15369613/garrett-rector)
 [<img align="left" alt="Twitter" height="30px" src="./logo/Twitter.png" />]()
 [<img align="left" alt="Instagram" height="30px" src="./logo/Instagram.png" />]()
-[<img align="left" alt="Discord" height="30px" src="./logo/Discord.png" />]()
+[<img align="left" alt="Discord" height="30px" src="./logo/Discord.png" />](https://discordapp.com/users/619951567927246878/)
 [<img align="left" alt="Gitlab" height="30px" src="https://img.icons8.com/color/48/000000/gitlab.png" />](https://gitlab.com/GarrettRector)
 
 <br />
