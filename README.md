@@ -5,7 +5,7 @@
 * I am looking to understand machine learning further
 
 ## Connect with me:
-[<img align="left" alt="Stackoverflow" height="22px" src="/logo/StackOverflow.png" />][https://stackoverflow.com/users/15369613/garrett-rector]
+[<img align="left" alt="Stackoverflow" height="22px" src="/logo/StackOverflow.png" />](https://stackoverflow.com/users/15369613/garrett-rector)
 [<img align="left" alt="Sabesan | Dev" height="22px" src="./SocialLogo/Dev.png" />][dev]
 [<img align="left" alt="Sabesan | Quora" height="22px" src="./SocialLogo/Quora.png" />][quora]
 [<img align="left" alt="Sabesan | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
