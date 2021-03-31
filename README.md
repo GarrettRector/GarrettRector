@@ -30,10 +30,11 @@
 [<img alt="Java" height="50px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png" />](https://openjdk.java.net/install/index.html)
 [<img alt="Python" height="50px" src="https://img.icons8.com/color/240/000000/python.png" />](https://www.python.org/)
 [<img alt="Git" height="50px" src="https://img.icons8.com/color/240/000000/git.png" />](https://git-scm.com/)
-[<img alt="GitHub" height="50px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png" />](https://github.com/)
 [<img alt="GitLab" height="50px" src="https://img.icons8.com/color/48/000000/gitlab.png" />](https://about.gitlab.com/)
-[<img alt="Docker" height="50px" src="https://img.icons8.com/ios-filled/50/000000/docker-container.png" />](https://www.docker.com/)
 [<img alt="Jetbrains" height="50px" src="./logo/jetbrains.png" />](https://www.jetbrains.com/products/)
+[<img alt="Docker" height="50px" src="https://img.icons8.com/ios-filled/50/000000/docker-container.png" />](https://www.docker.com/)
+[<img alt="GitHub" height="50px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png" />](https://github.com/)
+
 
 
 
