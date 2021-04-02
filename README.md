@@ -42,4 +42,5 @@
 ## Current Projects and the order of their prioritization
 * I am currently working on [Jchat](https://github.com/GarrettRector/JChat)
 * I also plan to continue development on [RLAC](https://github.com/GarrettRector/RLAC)
+* [JSProxy](https://github.com/GarrettRector/JSProxy) is also being worked on, but its really annoying to work on networking with my current setup. Might move it to a different langauge.
 * I would also like to start a C based project whether that is C, C++, or C#. One of my goals would be create a 3d render based solely off the command line.
