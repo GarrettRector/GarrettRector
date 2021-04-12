@@ -14,8 +14,7 @@
 
 <br />
 
-## Github Stats!    <img align="right" src="https://komarev.com/ghpvc/?username=garrettrector&color=blue">
-
+## Github Stats    <img align="right" src="https://komarev.com/ghpvc/?username=garrettrector&color=blue">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GarrettRector&show_icons=true&theme=dark" />
