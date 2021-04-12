@@ -43,4 +43,4 @@
 * I am currently working on [Jchat](https://github.com/GarrettRector/JChat)
 * I also plan to continue development on [RLAC](https://github.com/GarrettRector/RLAC)
 * [JSProxy](https://github.com/GarrettRector/JSProxy) is also being worked on, but its really annoying to work on networking with my current setup. Might move it to a different language.
-* I would also like to start a C based project whether that is C, C++, or C#. One of my goals would be create a 3d render based solely off the command line.
+* I've also created [New Mans Sky](https://github.com/GarrettRector/NewMansSky), a unity clone of No mans sky, which is essentially everything you ever hated about no mans sky (and loved), but fixed.
