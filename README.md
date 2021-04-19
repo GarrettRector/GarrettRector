@@ -27,7 +27,8 @@
 
 ## Languages and Tools
 [<img alt="IntelliJ Idea" height="50px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />](https://www.jetbrains.com/idea/)
-[<img alt="Pycharm" height="50px" src="https://img.icons8.com/color/240/000000/pycharm.png" />](https://www.jetbrains.com/pycharm/)
+[<img alt="Pycharm" height="50px" src="https://img.icons8.com/color/48/000000/pycharm.png" />](https://www.jetbrains.com/pycharm/)
+[<img alt="Rider" height="50px" src="./logo/rider.png" />](https://www.jetbrains.com/rider/)
 [<img alt="Java" height="50px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png" />](https://openjdk.java.net/install/index.html)
 [<img alt="Python" height="50px" src="https://img.icons8.com/color/240/000000/python.png" />](https://www.python.org/)
 [<img alt="Git" height="50px" src="https://img.icons8.com/color/240/000000/git.png" />](https://git-scm.com/)
