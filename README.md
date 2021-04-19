@@ -36,6 +36,7 @@
 [<img alt="Jetbrains" height="50px" src="./logo/jetbrains.png" />](https://www.jetbrains.com/products/)
 [<img alt="Docker" height="50px" src="https://img.icons8.com/ios-filled/50/000000/docker-container.png" />](https://www.docker.com/)
 [<img alt="GitHub" height="50px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png" />](https://github.com/)
+[<img alt="Unity" height="50px" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />](https://unity.com/)
 
 
 
