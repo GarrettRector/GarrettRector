@@ -3,7 +3,7 @@
 * I use Languages such as Python or Java
 * I enjoy using the Jetbrains suite of development tools the most
 * I am looking to understand machine learning further
-* I also play guitar, and would like to get better at it.
+* I also play guitar, Polyphia is my favorite band. Support them [here](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)
 
 ## Connect with me:
 [<img align="left" alt="StackOverflow" height="30px" src="/logo/StackOverflow.png" />](https://stackoverflow.com/users/15369613/garrett-rector)
