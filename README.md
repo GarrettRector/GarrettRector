@@ -44,5 +44,5 @@
 
 ## Current Projects and the order of their prioritization
 * I am currently working on [Jchat](https://github.com/GarrettRector/JChat)
-* I also plan to continue development on [RLAC](https://github.com/GarrettRector/RLAC-V2), Which is the second version of [RLAC](https://github.com/GarrettRTector/RLAC), Which is deprecated
-* [JSProxy](https://github.com/GarrettRector/JSProxy) is also being worked on, but its really annoying to work on networking with my current setup. Might move it to a different language.
+* I also plan to continue development on [RLAC-2](https://github.com/GarrettRector/RLAC-V2), Which is the second version of [RLAC](https://github.com/GarrettRTector/RLAC), Which is deprecated
+* I am also working on [JSProxy](https://github.com/GarrettRector/JSProxy), but to be honest don't really know what I am doing. I may continue development but I dont know at this point.
