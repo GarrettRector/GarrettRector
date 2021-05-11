@@ -46,3 +46,4 @@
 * I am currently working on [Jchat](https://github.com/GarrettRector/JChat)
 * I also plan to continue development on [RLAC-2](https://github.com/GarrettRector/RLAC-V2), Which is the second version of [RLAC](https://github.com/GarrettRTector/RLAC), Which is deprecated
 * I am also working on [JSProxy](https://github.com/GarrettRector/JSProxy), but to be honest don't really know what I am doing. I may continue development but I dont know at this point.
+* NEW PROJECT!!! I am working on a plugin EXCLUSIVELY for JetBrains IDE's. It's named [SmartSync](https://github.com/GarrettRector/SmartSync) that integrates with google drive to sync your files on the cloud between all of your computers.
