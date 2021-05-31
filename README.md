@@ -44,5 +44,4 @@
 
 ## Current Projects and the order of their prioritization
 * I am currently working on [Jchat](https://github.com/GarrettRector/JChat) (GUI is coming extremely soon, but a lot of development still needs to be done)
-* I also plan to continue development on [RLAC-2](https://github.com/GarrettRector/RLAC-V2), Which is the second version of [RLAC](https://github.com/GarrettRTector/RLAC), Which is deprecated
-* I am also working on [JSProxy](https://github.com/GarrettRector/JSProxy), but to be honest don't really know what I am doing. I may continue development but I dont know at this point.
+* New AI project will replace RLAC-V2, with a better and more complex AI neural network
