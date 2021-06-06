@@ -43,5 +43,5 @@
 
 
 ## Current Projects and the order of their prioritization
-* I am currently working on [Jchat](https://github.com/GarrettRector/JChat) (GUI is coming extremely soon, but a lot of development still needs to be done)
+* I am currently working on [Jchat](https://github.com/GarrettRector/JChat) (GUI is expected to be released by august, but a lot of development still needs to be done)
 * New AI project will replace RLAC-V2, with a better and more complex AI neural network
