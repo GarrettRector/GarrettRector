@@ -3,7 +3,7 @@
 * I use Languages such as Python or Java
 * I enjoy using the Jetbrains suite of development tools the most
 * I am looking to understand machine learning further
-* I also play guitar, Polyphia is my favorite band. Support them [here](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)
+* I also play guitar, Polyphia is my favorite band. Support them [here](https://polyphia.com)
 
 ## Connect with me:
 [<img align="left" alt="StackOverflow" height="30px" src="/logo/StackOverflow.png" />](https://stackoverflow.com/users/15369613/garrett-rector)
@@ -44,4 +44,4 @@
 
 ## Current Projects and the order of their prioritization
 * I am currently working on [Jchat](https://github.com/GarrettRector/JChat) (GUI is expected to be released by august, but a lot of development still needs to be done)
-* New AI project will replace RLAC-V2, with a better and more complex AI neural network. Name in process
+* Focus shifting towards python calculations projects for school
