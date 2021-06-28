@@ -43,5 +43,5 @@
 
 
 ## Current Projects and the order of their prioritization
-* I am currently working on [Jchat](https://github.com/GarrettRector/JChat) (GUI is expected to be released by august, but a lot of development still needs to be done)
+* I am currently working on [Jchat](https://github.com/GarrettRector/JChat) and [JChat API](https://github.com/GarrettRector/JChatAPI) (GUI is expected to be released by july, but a lot of development still needs to be done), and the API is sorta on the backburner with the release date scheduled for late august
 * Focus shifting towards python calculations projects for school
