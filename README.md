@@ -17,10 +17,10 @@
 ## Github Stats    <img align="right" src="https://komarev.com/ghpvc/?username=garrettrector&color=blue">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GarrettRector&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GarrettRector&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarrettRector&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarrettRector&theme=github_dark&layout=compact" />
 </a>
 
 ##### (them stats look nice though)
