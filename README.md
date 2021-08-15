@@ -42,6 +42,6 @@
 
 
 ## Current Projects and the order of their prioritization
-* [thursday](https://github.com/GarrettRector/thursday) is a clone of Tony Stark's friday, which is based off of Open AI's GPT-3, and is centralized by a Flask python server.
+* [Database](https://github.com/GarrettRector/Database) is a python server side database manager I am currently developing to offload files to a custom file storage system
 * I am currently working on [Jchat](https://github.com/GarrettRector/JChat) and [JChat API](https://github.com/GarrettRector/JChatAPI) (GUI is expected to be released by july, but a lot of development still needs to be done), and the API is sorta on the backburner with the release date scheduled for late august
 * Focus shifting towards python calculations projects for school
