@@ -1,4 +1,4 @@
-## I'm currently a Freshie at the #9 highschool in the US, GSMST, and want to learn more about the world of computer programming
+## I'm currently a Freshman at the #9 highschool in the US, GSMST, and want to learn more about the world of computer programming
 * Attending GSMST, and am the class of 2025
 * I use Languages such as Python or Java
 * I use jetbrains IDES
@@ -12,7 +12,7 @@
 [<img align="left" alt="Discord" height="30px" src="./logo/Discord.png" />](https://discordapp.com/users/619951567927246878/)
 [<img align="left" alt="Gitlab" height="30px" src="https://img.icons8.com/color/48/000000/gitlab.png" />](https://gitlab.com/GarrettRector)
 
-<br />
+<br/>
 
 ## Github Stats    <img align="right" src="https://komarev.com/ghpvc/?username=garrettrector&color=blue">
 
