@@ -1,7 +1,7 @@
 ## I'm currently a Freshman at the #9 highschool in the US, GSMST, and want to learn more about the world of computer programming
 * Attending GSMST, and am the class of 2025
 * I use Languages such as Python or Java
-* I use jetbrains IDES
+* I use JetBrains IDEs
 * I am looking to understand machine learning further
 * I also play guitar, Polyphia is my favorite band. Support them [here](https://polyphia.com)
 
