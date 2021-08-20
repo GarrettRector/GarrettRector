@@ -43,5 +43,5 @@
 
 ## Current Projects and the order of their prioritization
 * [Database](https://github.com/GarrettRector/Database) is a python server side database manager I am currently developing to offload files to a custom file storage system
-* I am currently working on [Jchat](https://github.com/GarrettRector/JChat) and [JChat API](https://github.com/GarrettRector/JChatAPI) (GUI is expected to be released by july, but a lot of development still needs to be done), and the API is sorta on the backburner with the release date scheduled for late august
+* I am working on a Mac OS [Calculator app](https://github.com/GarrettRector/CalculatorApp) that uses Natural Language Proccessing to do math, take notes, convert currency, and a lot of other things
 * Focus shifting towards python calculations projects for school
