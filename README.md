@@ -42,6 +42,5 @@
 
 
 ## Current Projects and the order of their prioritization
-* [Database](https://github.com/GarrettRector/Database) is a python server side database manager I am currently developing to offload files to a custom file storage system
 * I am working on a Mac OS [Calculator app](https://github.com/GarrettRector/CalculatorApp) that uses Natural Language Proccessing to do math, take notes, convert currency, and a lot of other things
 * Focus shifting towards python calculations projects for school
