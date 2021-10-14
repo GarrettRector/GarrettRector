@@ -4,6 +4,7 @@
 * I use JetBrains IDEs
 * I am looking to understand machine learning further
 * I also play guitar, Polyphia is my favorite band. Support them [here](https://polyphia.com)
+* Proud member of the frontend hate club
 
 ## Connect with me:
 [<img align="left" alt="StackOverflow" height="30px" src="/logo/StackOverflow.png" />](https://stackoverflow.com/users/15369613/garrett-rector)
