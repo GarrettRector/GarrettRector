@@ -1,10 +1,9 @@
 ## I'm currently a Freshman at the #9 highschool in the US, GSMST, and want to learn more about the world of computer programming
 * Attending GSMST, and am the class of 2025
-* I use Languages such as Python or Java
+* I use Languages such as Python or JavaScript
 * JetBrains IDEs are obviously the best (is this a question?)
 * I am looking to understand machine learning further
-* I also play guitar, Polyphia is my favorite band. Support them [here](https://polyphia.com)
-* Proud member of the frontend hate club
+* I also play guitar, and Polyphia is my favorite band. Support them [here](https://polyphia.com)
 
 ## Connect with me:
 [<img align="left" alt="Email" height="30px" src="./logo/email.png" />](mailto:garrett@grector.dev)
@@ -30,7 +29,6 @@
 [<img alt="Java" height="50px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png" />](https://openjdk.java.net/install/index.html)
 [<img alt="Python" height="50px" src="https://img.icons8.com/color/240/000000/python.png" />](https://www.python.org/)
 [<img alt="Git" height="50px" src="https://img.icons8.com/color/240/000000/git.png" />](https://git-scm.com/)
-[<img alt="GitLab" height="50px" src="https://img.icons8.com/color/48/000000/gitlab.png" />](https://about.gitlab.com/)
 [<img alt="Jetbrains" height="50px" src="./logo/jetbrains.png" />](https://www.jetbrains.com/products/)
 [<img alt="Docker" height="50px" src="https://img.icons8.com/ios-filled/50/000000/docker-container.png" />](https://www.docker.com/)
 [<img alt="GitHub" height="50px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png" />](https://github.com/)
@@ -43,3 +41,4 @@
 ## Current Projects and the order of their prioritization
 * Huge focus on my up and coming and first large scale project, [Anja](https://github.com/ProjectAnja)
 * Focus shifting towards python calculations projects for school
+* Hoping to get better at JavaScript
