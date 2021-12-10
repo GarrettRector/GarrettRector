@@ -7,7 +7,7 @@
 * Proud member of the frontend hate club
 
 ## Connect with me:
-[<img align="left" alt="eMail" height="30px" src=".logo/eMail.png" />](mailto:garrett@grector.dev)
+[<img align="left" alt="Email" height="30px" src="./logo/email.png" />](mailto:garrett@grector.dev)
 [<img align="left" alt="Instagram" height="30px" src="./logo/Instagram.png" />](https://www.instagram.com/g.arrettr/)
 [<img align="left" alt="Discord" height="30px" src="./logo/Discord.png" />](https://discordapp.com/users/619951567927246878/)
 
