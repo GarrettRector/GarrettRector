@@ -30,15 +30,11 @@
 [<img alt="Python" height="50px" src="https://img.icons8.com/color/240/000000/python.png" />](https://www.python.org/)
 [<img alt="Git" height="50px" src="https://img.icons8.com/color/240/000000/git.png" />](https://git-scm.com/)
 [<img alt="Jetbrains" height="50px" src="./logo/jetbrains.png" />](https://www.jetbrains.com/products/)
-[<img alt="Docker" height="50px" src="https://img.icons8.com/ios-filled/50/000000/docker-container.png" />](https://www.docker.com/)
 [<img alt="GitHub" height="50px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png" />](https://github.com/)
-[<img alt="Unity" height="50px" src="https://img.icons8.com/ios-filled/50/000000/unity.png" />](https://unity.com/)
-
 
 
 
 
 ## Current Projects and the order of their prioritization
-* Huge focus on my up and coming and first large scale project, [Anja](https://github.com/ProjectAnja)
-* Focus shifting towards python calculations projects for school
+* Trying to make an AI Twitter bot in Python
 * Hoping to get better at JavaScript
