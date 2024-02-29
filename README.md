@@ -1,9 +1,8 @@
-## I'm currently a Freshman at the #9 highschool in the US, GSMST, and want to learn more about the world of computer programming
+## I'm currently a Junior at GSMST, and I do Audio Engineering for Live Venues and Studio Recordings
 * Attending GSMST, and am the class of 2025
-* I use Languages such as Python or JavaScript
-* JetBrains IDEs are obviously the best (is this a question?)
-* I am looking to understand machine learning further
-* I also play guitar, and Polyphia is my favorite band. Support them [here](https://polyphia.com)
+* I mix live sound on DiGiCo consoles such as the SD5 or SD8
+* I used to want to go into Computer Science, hence the long list of commits from a couple years ago
+* I also play guitar and drums, and Thornhill is my favorite band atm. Support them [here](https://www.instagram.com/thornhillmelb/?hl=en)
 
 ## Connect with me:
 [<img align="left" alt="Email" height="30px" src="./logo/email.png" />](mailto:garrett@grector.dev)
@@ -12,29 +11,9 @@
 
 <br/>
 
-## Github Stats    <img align="right" src="https://komarev.com/ghpvc/?username=garrettrector&color=blue">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GarrettRector&show_icons=true&hide_border=true&theme=github_dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarrettRector&hide_border=true&theme=github_dark&layout=compact" />
-</a>
-
-##### (them stats look nice though)
-
 ## Languages and Tools
 [<img alt="IntelliJ Idea" height="50px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />](https://www.jetbrains.com/idea/)
-[<img alt="Pycharm" height="50px" src="https://img.icons8.com/color/48/000000/pycharm.png" />](https://www.jetbrains.com/pycharm/)
 [<img alt="Java" height="50px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png" />](https://openjdk.java.net/install/index.html)
-[<img alt="Python" height="50px" src="https://img.icons8.com/color/240/000000/python.png" />](https://www.python.org/)
 [<img alt="Git" height="50px" src="https://img.icons8.com/color/240/000000/git.png" />](https://git-scm.com/)
 [<img alt="Jetbrains" height="50px" src="./logo/jetbrains.png" />](https://www.jetbrains.com/products/)
 [<img alt="GitHub" height="50px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png" />](https://github.com/)
-
-
-
-
-## Current Projects and the order of their prioritization
-* Trying to make an AI Twitter bot in Python
-* Hoping to get better at JavaScript
