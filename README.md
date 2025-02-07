@@ -1,6 +1,6 @@
-## I'm currently a Junior at GSMST, and I do Audio Engineering for Live Venues and Studio Recordings
-* Attending GSMST, and am the class of 2025
-* I mix live sound on DiGiCo consoles such as the SD5 or SD8
+## Mechanical Engineering Major
+* Attending GSMST
+* FRC 3318 Captain
 * I used to want to go into Computer Science, hence the long list of commits from a couple years ago
 * I also play guitar and drums, and Thornhill is my favorite band atm. Support them [here](https://www.instagram.com/thornhillmelb/?hl=en)
 
