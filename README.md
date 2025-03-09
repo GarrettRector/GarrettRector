@@ -2,7 +2,7 @@
 * Attending GSMST
 * FRC 3318 Captain
 * I used to want to go into Computer Science, hence the long list of commits from a couple years ago
-* I also play guitar and drums, and Thornhill is my favorite band atm. Support them [here](https://www.instagram.com/thornhillmelb/?hl=en)
+* I also play guitar and drums, and Thornhill is my favorite band right now. Support them [here](https://www.instagram.com/thornhillmelb/?hl=en)
 
 ## Connect with me:
 [<img align="left" alt="Email" height="30px" src="./logo/email.png" />](mailto:garrett@grector.dev)
